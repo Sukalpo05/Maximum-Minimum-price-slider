@@ -1,4 +1,4 @@
-/* Style.css */
+
 * {
     margin: 0;
     padding: 0;
@@ -52,7 +52,7 @@ body {
     padding: 20px;
 }
 
-/* Styles for the price input container */
+
 .price-input-container {
     width: 100%;
 }
@@ -85,7 +85,7 @@ body {
     color: #555;
 }
 
-/* Remove Arrows/Spinners */
+
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
     -webkit-appearance: none;
@@ -127,7 +127,7 @@ input::-webkit-inner-spin-button {
     -webkit-appearance: none;
 }
 
-/* Styles for the range thumb in WebKit browsers */
+
 input[type="range"]::-webkit-slider-thumb {
     height: 18px;
     width: 18px;
